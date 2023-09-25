@@ -1,11 +1,9 @@
 ### Hi, I’m @F-Sergei 👋
 
 ## I'm an experience seeker!
-- 🔭 I’m currently studying at Yandex.Practicum and ITMO in Russia;
-- In the future I want to combine three professions (power supply, data analytics, digital control systems) with a bias in data analysis.
-- I am interested in combining electric power and IoT with data analysis, in the future I may develop a start up project.
-- Participated in two Case-In championships in 2022 and 2023.
-- I am considering remote work, hybrid schedule.
+🔭 I’m currently studying at Yandex.Practicum and ITMO in Russia
+
+In the future I want to combine three professions (power supply, data analytics, digital control systems) with a bias in data analysis. I am interested in combining electric power and IoT with data analysis, in the future I may develop a start up project. Participated in two Case-In championships in 2022 and 2023. I am considering remote work, hybrid schedule.
 
 ### Connect with me:
 <!--- [<img align="left" alt="nik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] --->
