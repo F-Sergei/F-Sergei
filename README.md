@@ -8,9 +8,6 @@
 - I am considering remote work, hybrid schedule.
 
 ### Connect with me:
-Email: man.fox-man@yandex.ru 
-
-OR
 <!--- [<img align="left" alt="nik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] --->
 <!--- [<img align="left" alt="nik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] --->
 <!--- [<img align="left" alt="nik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] --->
